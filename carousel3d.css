@@ -1,0 +1,11 @@
+.carousel3d ul {
+  list-style: none;
+  position: relative;
+  height: 600px;
+  padding: 0;
+}
+.carousel3d img {
+  position: absolute;
+  bottom: 0;
+  -webkit-transition: all 0.4s;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "carousel3d",
+  "version": "0.0.0",
+  "authors": [
+    "Qiu Xiang <xiang.qiu@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "hammerjs": "~2.0.4"
+  }
+}
