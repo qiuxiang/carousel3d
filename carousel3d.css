@@ -1,8 +1,6 @@
-.carousel3d ul {
-  list-style: none;
+.carousel3d {
   position: relative;
   height: 600px;
-  padding: 0;
 }
 .carousel3d img {
   position: absolute;
